@@ -1,0 +1,15 @@
+#header{
+    background-color: aqua;
+    padding: 10px ;
+}
+#title{
+    font-family: comic sans-serif;
+    color: brown;
+}
+#footer{
+    background-color: aqua;
+    padding: 10px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
